@@ -1,7 +1,7 @@
 
 # review-dapp
 vue仿DAppReview官网的一个练手项目
-
+# 在线查看本项目效果 [查看]()
 ## 食用方法
 
 ### 第一步 ：添加作料
@@ -18,7 +18,7 @@ npm run dev
  
 # [整理的接口文档](https://github.com/KamyoChae/review-dapp/blob/master/api.md)
 
-# 2019-03-05更新 优化首页水波纹动效 查看无数据版
+# 2019-03-05更新 优化首页水波纹动效 查看无接口版[点这里](https://github.com/KamyoChae/review-dapp)
 
 ## 重构的部分 官网的样子：
 
@@ -28,9 +28,9 @@ npm run dev
 ## 重构之后的样子：
 ![](https://github.com/KamyoChae/review-dapp/blob/master/_demo_image/slider1.gif) 
 
-# 下面是vue重构的页面，力求还原官网设计 
+# 下面是vue重构的页面，力求还原官网设计 并添加自己的一些想法
 
-[下载demo视频](https://github.com/KamyoChae/review-dapp/blob/master/_demo_image/DAppReview.mp4)
+[下载上一版本demo视频](https://github.com/KamyoChae/review-dapp/blob/master/_demo_image/DAppReview.mp4)
 
 # 先放上重构结束的项目截图
 
